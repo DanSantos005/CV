@@ -1,5 +1,16 @@
 /*Changing site background*/
 
 body{
-    background-color: rgb(166, 171, 171);
+    background-color: rgb(247, 247, 247);
+    font-family: 'Montserrat', sans-serif;
 }
+#profile-pic {
+    border-radius: 50%;
+    width: 50%;
+}
+h3{
+    border:solid 1px black;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 100vw;
+} 
