@@ -6,7 +6,7 @@ body{
 }
 #profile-pic {
     border-radius: 50%;
-    width: 50%;
+    width: 30%;
 }
 h3{
     border:solid 1px black;
@@ -14,3 +14,9 @@ h3{
     margin: 5px;
     border-radius: 100vw;
 } 
+img{
+    width: 3%;
+}
+p{
+    margin-left: 16px;
+}
